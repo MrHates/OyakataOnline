@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Structure
+  - RamenStateMenager
+  - ProductMakingMenager
+  - MachineNoiceGenerator
+  - StructureCamera
+  - StructureUniversal
+  - StructureStuffUniversal
+  - StructureWatchman
+  - DayResultMenager
+  - Money
+  - DayCycleMenager
+  - MagazineMenager
+  - Stuff
+  - StructureCompleting
+  - RenderPSX
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Mouse Pointer
+  - GridPlacement
+  - Structure
+  - CellCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UICamera
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

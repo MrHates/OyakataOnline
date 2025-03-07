@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ba4d292daab1fd4d948fb7d8c141121, type: 3}
+  m_Name: CompletedRamenDatabase
+  m_EditorClassIdentifier: 
+  completedRamens:
+  - <ramenType>k__BackingField:
+      <Name>k__BackingField: Jap Orginal
+      <ID>k__BackingField: 0
+      <RamenSprite>k__BackingField: {fileID: 0}
+      <Price>k__BackingField: 2.5
+      <Quality>k__BackingField: Low
+      NeededIngridients: 
+    <Amount>k__BackingField: 0
+  - <ramenType>k__BackingField:
+      <Name>k__BackingField: Tk Chicken
+      <ID>k__BackingField: 1
+      <RamenSprite>k__BackingField: {fileID: 0}
+      <Price>k__BackingField: 2.5
+      <Quality>k__BackingField: Mid
+      NeededIngridients: 
+    <Amount>k__BackingField: 0
+  - <ramenType>k__BackingField:
+      <Name>k__BackingField: Beef wasabi
+      <ID>k__BackingField: 2
+      <RamenSprite>k__BackingField: {fileID: 0}
+      <Price>k__BackingField: 3.85
+      <Quality>k__BackingField: High
+      NeededIngridients: 
+    <Amount>k__BackingField: 0
+  - <ramenType>k__BackingField:
+      <Name>k__BackingField: Korean bbq
+      <ID>k__BackingField: 3
+      <RamenSprite>k__BackingField: {fileID: 0}
+      <Price>k__BackingField: 3.85
+      <Quality>k__BackingField: High
+      NeededIngridients: 
+    <Amount>k__BackingField: 0
+  - <ramenType>k__BackingField:
+      <Name>k__BackingField: Pad that
+      <ID>k__BackingField: 4
+      <RamenSprite>k__BackingField: {fileID: 0}
+      <Price>k__BackingField: 3.7
+      <Quality>k__BackingField: Mid
+      NeededIngridients: 
+    <Amount>k__BackingField: 0
+  - <ramenType>k__BackingField:
+      <Name>k__BackingField: Beef sukiya
+      <ID>k__BackingField: 5
+      <RamenSprite>k__BackingField: {fileID: 0}
+      <Price>k__BackingField: 2.1
+      <Quality>k__BackingField: Low
+      NeededIngridients: 
+    <Amount>k__BackingField: 0
+  - <ramenType>k__BackingField:
+      <Name>k__BackingField: Miso ramen
+      <ID>k__BackingField: 6
+      <RamenSprite>k__BackingField: {fileID: 0}
+      <Price>k__BackingField: 2
+      <Quality>k__BackingField: Low
+      NeededIngridients: 
+    <Amount>k__BackingField: 0

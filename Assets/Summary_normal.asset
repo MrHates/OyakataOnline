@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fcf7ec6f365a434e9c79ef979e4ba8a, type: 3}
+  m_Name: Summary_normal
+  m_EditorClassIdentifier: 
+  summaryPack:
+  - <title>k__BackingField: "Cisza przed burza \u2013 az za spokojnie"
+    <firstPage>k__BackingField: Dzisiaj w firmie nie wydarzylo sie kompletnie nic.
+      Maszyny pracowaly jak w zegarku, dostawy przyszly na czas, a magazyn stal spokojnie
+      jak zawsze. Az za spokojnie... Moze to cisza przed burza?
+    <secondPage>k__BackingField: "Zastanawiamy sie, kiedy nastepny raz cos wybuchnie
+      albo przypadkowo samoczynnie sie podpali. W kazdym razie \u2013 p\xF3ki co
+      cieszymy sie spokojem. Moze jutro znowu zobaczymy, jak cos idzie z dymem."
+    <ID>k__BackingField: 0
+    <difficulty>k__BackingField: easy
+  - <title>k__BackingField: "Dzien bez wybuchow \u2013 kto by pomyslal"
+    <firstPage>k__BackingField: "Niesamowite, ale dzisiaj nie wybuchla zadna maszyna.
+      Serio. Nie, to nie zart. Wszystkie urzadzenia pracowaly bez zgrzytow, zadnych
+      naglych eksplozji ani samozaplon\xF3w. Moze nasze maszyny wreszcie nauczyly
+      sie nie plonac co drugi dzien?"
+    <secondPage>k__BackingField: Ale patrzac na nasza historie, pewnie szykuja sie
+      do czegos wielkiego. Spokojny dzien to nie norma, to podejrzane.
+    <ID>k__BackingField: 1
+    <difficulty>k__BackingField: easy
+  - <title>k__BackingField: "Nikt nie zginal \u2013 idealny dzien"
+    <firstPage>k__BackingField: Nie dosc, ze wszystkie maszyny dzialaly bez zarzutu,
+      to jeszcze nikt nie zginal! Tak, to chyba pierwszy raz od dawna, kiedy nikt
+      nie zostal porazony pradem, zmiazdzony paleta czy przypadkowo nie ugrzazl w
+      maszynie.
+    <secondPage>k__BackingField: "Wyglada na to, ze nasze maszyny wzialy dzien wolny
+      od krwi. No coz, moze jutro beda bardziej kreatywne\u2026"
+    <ID>k__BackingField: 2
+    <difficulty>k__BackingField: easy
+  - <title>k__BackingField: "Bezawaryjny dzien \u2013 dlaczego nikt nie zginal"
+    <firstPage>k__BackingField: Dzisiaj byl jeden z tych dni, kiedy wszyscy przezyli!
+      Maszyny dzialaly bez usterek, a my z niepokojem ogladalismy sie za siebie.
+      Wyglada na to, ze nasze maszyny chca nas zaskoczyc.
+    <secondPage>k__BackingField: "Moze po prostu trenuja na dzien, w kt\xF3rym wszyscy
+      wylecimy w powietrze? Szkoda, ze nie mozemy sie dowiedziec, ktora z nich zasluguje
+      na nagrode za najlepszy dramat!"
+    <ID>k__BackingField: 3
+    <difficulty>k__BackingField: easy

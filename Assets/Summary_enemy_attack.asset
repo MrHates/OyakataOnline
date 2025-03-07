@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fcf7ec6f365a434e9c79ef979e4ba8a, type: 3}
+  m_Name: Summary_enemy_attack
+  m_EditorClassIdentifier: 
+  summaryPack:
+  - <title>k__BackingField: "Zniszczona maszyna \u2013 brak monitoringu zem\u015Bci\u0142
+      sie"
+    <firstPage>k__BackingField: "Dzisiaj rano odkrylismy powazny problem \u2013 nasza
+      maszyna byla kompletnie zdewastowana, a czesci porozrzucane po calej fabryce.
+      Niestety, nie mamy zadnych dowodow ani slad\xF3w, bo monitoring, ktory mielismy
+      zamontowac \"jutro\", wciaz nie istnieje."
+    <secondPage>k__BackingField: "Nie wiadomo, kto dokonal tego sabotazu, ale jedno
+      jest pewne \u2013 brak kamer okazal sie kosztownym bledem. Teraz, zamiast produkowac,
+      musimy ratowac sytuacje i naprawic sprzet, zanim stracimy cenny czas i klient\xF3w."
+    <ID>k__BackingField: 0
+    <difficulty>k__BackingField: easy
+  - <title>k__BackingField: "Kradziez towaru \u2013 brak kamer kosztuje nas towar"
+    <firstPage>k__BackingField: Kiedy rano otworzylismy magazyn, z przerazeniem odkrylismy,
+      ze kilka palet z towarem zniknelo bez sladu. Nie mamy zadnych dowodow, bo monitoring,
+      ktory mial byc zamontowany, wciaz pozostaje tylko planem na przyszlosc.
+    <secondPage>k__BackingField: "Nie wiadomo, kto dokonal tego sabotazu, ale jedno
+      jest pewne. Brak kamer okazal sie kosztownym bledem. Teraz, zamiast produkowac,
+      musimy ratowac sytuacje i naprawic sprzet, zanim stracimy cenny czas i klient\xF3w!"
+    <ID>k__BackingField: 1
+    <difficulty>k__BackingField: easy
+  - <title>k__BackingField: "Bezdomny problem \u2013 brak nocnego str\xF3\u017Ca
+      psuje reputacj\u0119"
+    <firstPage>k__BackingField: Ostatniej nocy, z powodu braku nocnego stroza, przed
+      nasza firma pojawil sie bezdomny, ktory nie tylko spedzil tam noc, ale takze
+      zniszczyl wizerunek naszego biznesu. Czlowiek ten zesral sie i zeszczal po
+      tym jak zarzyl duza ilosc metanolu
+    <secondPage>k__BackingField: Plotki juz zaczely sie rozprzestrzeniac, a nasza
+      reputacja szybko podupada. Z kazdym dniem, kiedy nie mamy stroza, ryzykujemy
+      coraz wieksze problemy. Jesli nie rozwiazemy tego szybko, wizerunek firmy moze
+      ucierpiec na dluzej.
+    <ID>k__BackingField: 2
+    <difficulty>k__BackingField: easy
+  - <title>k__BackingField: "Inwestygacja agentow \u2013 brak nocnego stroza"
+    <firstPage>k__BackingField: Dzisiejszej nocy przed nasza firma zaczeli krecic
+      sie podejrzani osobnicy. Wygladali jak zboje, a ich dziwne spojrzenia na nasz
+      magazyn sugeruja, ze mogli miec zle zamiary
+    <secondPage>k__BackingField: "Coraz wiecej wskazuje na to, ze moga to byc agenci
+      z konkurencyjnej frakcji, probujacy siac zamet lub planowac sabotaz. Brak nocnego
+      str\xF3za niestety tylko ulatwia im sprawe."
+    <ID>k__BackingField: 3
+    <difficulty>k__BackingField: easy
+  - <title>k__BackingField: "Hitmani w akcji \u2013 cie\u0107 nie \u017Cyje!"
+    <firstPage>k__BackingField: Dzisiejszego ranka odkrylismy przerazajaca wiadomosc.
+      Nasz nocny stroz zostal odjebany. Slady wskazuja na to, ze to zabojcy z konkurencyjnej
+      frakcji, ktorzy wykorzystali brak dzialka strazniczego, by przeprowadzic swoj
+      zbrodniczy plan.
+    <secondPage>k__BackingField: "Teraz, kiedy nie ma juz nikogo, kto moglby bronic
+      naszego terenu, jestesmy narazeni na kradziez cennych zapas\xF3w. Ich bezkarnosci
+      wywoluje strach, a kazda chwila zwloki moze skonczyc sie utrata towaru."
+    <ID>k__BackingField: 4
+    <difficulty>k__BackingField: medium
+  - <title>k__BackingField: "Pozew od spolecznikow \u2013 firma na celowniku!"
+    <firstPage>k__BackingField: Grupa spolecznikow wniosla pozew przeciwko naszej
+      firmie, twierdzac, ze emitujemy zbyt duze ilosci szkodliwych gazow do atmosfery.
+      Ich dzialania zyskaly spory rozglos, a media juz zaczynaja sie interesowac
+      sprawa.
+    <secondPage>k__BackingField: "Brak odpowiednich filtrow i zabezpieczen w fabryce
+      stal sie punktem zapalnym, kt\xF3ry moze nas slono kosztowac. Jesli nie podejmiemy
+      dzialan, nie tylko ryzykujemy utrate reputacji, ale i powazne kary finansowe.
+      Konfidenci nie odpuszczaja, a nasza firma staje w obliczu walki, kt\xF3ra trzeba
+      rozegrac szybko i zdecydowanie."
+    <ID>k__BackingField: 5
+    <difficulty>k__BackingField: medium
+  - <title>k__BackingField: "Atak rakietowy \u2013 male szkody"
+    <firstPage>k__BackingField: "Dzisiejszej nocy nasza firma stala sie celem zuchwalego
+      ataku rakietowego ze strony konkurencji! Choc rakiety nie wyrzadzily powaznych
+      szk\xF3d, zniszczyly kilka palet z towarem i wywolaly panike wsrod pobliskich
+      klient\xF3w."
+    <secondPage>k__BackingField: To wyrazny sygnal, ze konkurencja nie cofnie sie
+      przed niczym, aby nas oslabic. Brak radaru anty rakietowego okazal sie nasza
+      slaba strona. Musimy natychmiast zareagowac i wzmocnic ochrone, zanim konkurenci
+      podejma kolejny krok. To pojeby ktore nie cofna sie przed niczym
+    <ID>k__BackingField: 6
+    <difficulty>k__BackingField: hard
+  - <title>k__BackingField: "Atak rakietowy \u2013 duze szkody"
+    <firstPage>k__BackingField: W nocy nasza firma zostala brutalnie zaatakowana
+      rakietami przez konkurencje, a skutki sa katastrofalne. Wiele naszych maszyn
+      zostalo doszczetnie zniszczonych, w tym kluczowe urzadzenia do produkcji makaronu
+      i przypraw.
+    <secondPage>k__BackingField: "Palety z towarem zostaly rozerwane na strzepy,
+      a fabryka praktycznie przestala funkcjonowac. Brak radaru anty rakietowego
+      doprowadzil do tej sytacji. Konkurencja pokazala, ze nie cofnie sie przed niczym,
+      a my musimy teraz podniesc sie z gruz\xF3w i opracowac plan dzialania, zanim
+      ten cios calkowicie nas pograzy."
+    <ID>k__BackingField: 7
+    <difficulty>k__BackingField: hard
+  - <title>k__BackingField: "Dziwne przepiecia \u2013 maszyny zablokowane"
+    <firstPage>k__BackingField: Dzisiaj nasza firma zostala dotknieta seria dziwnych
+      przepiec w sieci, ktore nagle zablokowaly dzialanie kilku waznych maszyn. Urzadzenia
+      przestaly funkcjonowac, a wznowic ich dzialanie moze tylko zestaw naprawczy.
+    <secondPage>k__BackingField: Awaria pojawila sie bez zadnych ostrzezen, co rodzi
+      podejrzenia, ze moze to byc cos powazniejszego. Produkcja zostala wstrzymana,
+      a kazda chwila opoznienia to realne straty dla firmy. Musimy szybko rozwiazac
+      problem, zanim sytuacja sie pogorszy.
+    <ID>k__BackingField: 8
+    <difficulty>k__BackingField: impossible
+  - <title>k__BackingField: Samoczynne podpalenie maszyny
+    <firstPage>k__BackingField: Dzisiaj w naszej firmie mial miejsce nieprzyjemny
+      incydent. Jedna z maszyn nagle zajela sie ogniem. Prawdopodobnie jeden z pracownikow
+      sie sam tam wpierdolil ale to tylko dziecko z temu. Tylko jedna maszyna ulegla
+      uszkodzeniu.
+    <secondPage>k__BackingField: Awaria pojawila sie bez zadnych ostrzezen, co rodzi
+      podejrzenia, ze moze to byc cos powazniejszego. Produkcja zostala wstrzymana,
+      a kazda chwila opoznienia to realne straty dla firmy. Musimy szybko rozwiazac
+      problem, zanim sytuacja sie pogorszy.
+    <ID>k__BackingField: 9
+    <difficulty>k__BackingField: impossible

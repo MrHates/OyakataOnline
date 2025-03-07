@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9afd1684f77adc040aab4811411f6b3e, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: UniversalPalette
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 6086006924321944455, guid: 35d36ca0e495b0b45bd38bb299ee58ff, type: 3}
+    <Price>k__BackingField: 100
+  - <Name>k__BackingField: AirConditioner
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 3034444491353107551, guid: 1232fc16d9179bc478f0f655f7f75968, type: 3}
+    <Price>k__BackingField: 20
+  - <Name>k__BackingField: VegMaker
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 7708551313534691820, guid: b304c1a5927f7b14dab8615fe79b73be, type: 3}
+    <Price>k__BackingField: 150
+  - <Name>k__BackingField: NoodleMaker
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 6429954260619756295, guid: ebb27c0b2e14ab04e97e8d71faa44356, type: 3}
+    <Price>k__BackingField: 100
+  - <Name>k__BackingField: UniversalMachine
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 2877041521103345977, guid: d2cf3bd91f4179a418a66fa26e112c9f, type: 3}
+    <Price>k__BackingField: 200
+  - <Name>k__BackingField: SauceMachine
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 6816531722734105153, guid: 7e6ef93b3bc73aa44a8f339e853c955f, type: 3}
+    <Price>k__BackingField: 100
+  - <Name>k__BackingField: Piecyk
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 2384366654811116347, guid: d9d7fdb83a6016242a2f8767ccac5232, type: 3}
+    <Price>k__BackingField: 50
+  - <Name>k__BackingField: NightGuard
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 2912199962357200212, guid: b3b102f01134b484f86addb125452618, type: 3}
+    <Price>k__BackingField: 300
+  - <Name>k__BackingField: Cameras
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 6322467934853982518, guid: 6e1d6e3e973d29c4194834e8ae4c00a7, type: 3}
+    <Price>k__BackingField: 100
